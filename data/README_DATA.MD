@@ -1,6 +1,6 @@
 # Data for Twitter Workshop NWAV 49
 
-# twitter_nwav_df
+# twitter_nwav_df.rds
 This contains 20k tweets that discussed engineering education in August 2020.  This data is used in the workshop.
 
 # contractions.xlsx

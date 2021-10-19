@@ -15,6 +15,6 @@ This directory has the slide presentations split as follows:
 2. twitter_nwav_df.rds: Twitter data from engineering education community from August 2020. 
 
 ### Code (in main directory)
-nwav_workshop_regex.R: using regular expressions in R. 
-nwav_workshop_meaning.R: Examples of UMAP, HDBSCAN, USE and Topic Modeling in R with twitter data. 
+1. nwav_workshop_regex.R: using regular expressions in R. 
+2. nwav_workshop_meaning.R: Examples of UMAP, HDBSCAN, USE and Topic Modeling in R with twitter data. 
 
